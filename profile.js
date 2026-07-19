@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Simons Research Fellow | AI & Computational Biology Researcher",
 
-  bio: "I am a Computer Science and AI researcher focused on developing machine learning systems for healthcare and biomedical discovery. As a DREAM-High Scholar and Simons Research Fellow at Stony Brook University, I explore computational biology, clinical data analysis, and artificial intelligence applications in medicine. My research interests include multimodal AI for healthcare, cancer genomics, neuroscience, and building accessible technologies that improve human health.",
+  bio: "I am an AI and computational biology researcher focused on developing machine learning approaches for biomedical discovery and precision healthcare. As a DREAM-High Scholar and Simons Research Fellow at Stony Brook University, I work on applying artificial intelligence to analyze complex biological and clinical datasets. My research interests include computational oncology, multimodal AI, biomedical data science, and interpretable machine learning systems that uncover disease mechanisms and support future clinical applications.",
 
   photo: "",
 
@@ -27,15 +27,16 @@ const studentProfile = {
   */
 
   rpubs: [
-  {
-    title: "DREAM-High Week 1: Finding Patterns with Heatmaps",
-    url: "https://rpubs.com/srihithch/1447139"
-  },
-  {
-    title: "DREAM-High Week 2: Exploring TCGA Breast Cancer Clinical Data",
-    url: "https://rpubs.com/srihithch/1447201"
-  }
-],
+    {
+      title: "DREAM-High Week 1: Finding Patterns with Heatmaps",
+      url: "https://rpubs.com/srihithch/1447139"
+    },
+    {
+      title: "DREAM-High Week 2: Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/srihithch/1447201"
+    }
+  ],
+
 
   /*
   Final project:
@@ -43,10 +44,11 @@ const studentProfile = {
   */
 
   finalProject: {
-    title: "AI and Computational Biology Research Portfolio",
-    description: "This project explores computational approaches for analyzing biological and clinical data, applying machine learning techniques to understand disease mechanisms and develop AI-driven healthcare solutions.",
+    title: "AI-Driven Computational Biology Analysis for Disease Discovery",
+    description: "This project applies computational biology and machine learning methods to analyze large-scale biomedical datasets, including genomic and clinical data. Through data visualization, statistical analysis, and AI-based approaches, the project explores patterns associated with disease biology and demonstrates how computational tools can accelerate biomedical research.",
     url: ""
   },
+
 
   /*
   GitHub links:
