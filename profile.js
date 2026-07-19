@@ -11,61 +11,55 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Srihith Chennareddy",
 
-  tagline: "DREAM-High Scholar | Computational Biology Portfolio",
+  tagline: "DREAM-High Scholar | Simons Research Fellow | AI & Computational Biology Researcher",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I am a Computer Science and AI researcher focused on developing machine learning systems for healthcare and biomedical discovery. As a DREAM-High Scholar and Simons Research Fellow at Stony Brook University, I explore computational biology, clinical data analysis, and artificial intelligence applications in medicine. My research interests include multimodal AI for healthcare, cancer genomics, neuroscience, and building accessible technologies that improve human health.",
 
-  /*
-  Optional photo:
-  1. Upload a photo file to this GitHub repository.
-  2. Rename it profile.jpg.
-  3. Change the line below to: photo: "profile.jpg"
-
-  If you do not want to use a photo, leave this as an empty string.
-  */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "Contact information available through my GitHub profile.",
 
   /*
   RPubs activities:
-  Add as many RPubs links as you want.
-
-  To add another activity, copy one of the blocks below.
-  Each block needs a title and a url.
+  DREAM-High computational biology coursework and projects.
   */
+
   rpubs: [
     {
-      title: "Introduction to R",
-      url: "https://rpubs.com/"
+      title: "DREAM-High Week 0: Introduction to R and Computational Biology",
+      url: "https://rpubs.com/srihithch/1447139"
     },
     {
-      title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      title: "DREAM-High Week 1: Exploring Biological Data with R",
+      url: "https://rpubs.com/srihithch/1447201"
+    },
+    {
+      title: "DREAM-High Week 2: Clinical Data Analysis of Breast Cancer Patients from TCGA",
+      url: ""
     }
   ],
 
   /*
   Final project:
-  This can link to a Google Doc, Google Slides presentation,
-  RPubs page, GitHub repository, PDF, or other final project page.
+  DREAM-High final computational biology project.
   */
+
   finalProject: {
-    title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    title: "AI and Computational Biology Research Portfolio",
+    description: "This project explores computational approaches for analyzing biological and clinical data, applying machine learning techniques to understand disease mechanisms and develop AI-driven healthcare solutions.",
     url: ""
   },
 
   /*
   GitHub links:
-  You can link to your GitHub profile or specific project repositories.
   */
+
   github: [
     {
-      title: "My GitHub Profile",
-      url: "https://github.com/"
+      title: "Srihith Chennareddy GitHub Profile",
+      url: "https://github.com/SrihithChennareddy"
     }
   ]
 };
