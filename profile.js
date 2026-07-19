@@ -27,19 +27,15 @@ const studentProfile = {
   */
 
   rpubs: [
-    {
-      title: "DREAM-High Week 0: Introduction to R and Computational Biology",
-      url: "https://rpubs.com/srihithch/1447139"
-    },
-    {
-      title: "DREAM-High Week 1: Exploring Biological Data with R",
-      url: "https://rpubs.com/srihithch/1447201"
-    },
-    {
-      title: "DREAM-High Week 2: Clinical Data Analysis of Breast Cancer Patients from TCGA",
-      url: ""
-    }
-  ],
+  {
+    title: "DREAM-High Week 1: Finding Patterns with Heatmaps",
+    url: "https://rpubs.com/srihithch/1447139"
+  },
+  {
+    title: "DREAM-High Week 2: Exploring TCGA Breast Cancer Clinical Data",
+    url: "https://rpubs.com/srihithch/1447201"
+  }
+],
 
   /*
   Final project:
